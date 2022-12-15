@@ -1,0 +1,9 @@
+{
+    "name": "Issues and Suggestions",
+    "description": "Open issues page on GitHub",
+    "icon": "%ICONS/idea.png",
+    "action-type": "open_url",
+    "open_url": {
+        "url": "https://github.com/WanderingCat27/ulauncher-custom-programs/issues"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Create open url action",
+  "description": "Create an action that opens a url when selected",
+  "icon": "%ICONS/plus.png",
+  "action-type": "script",
+  "script": {
+    "path": "script_to_create_url_action %name",
+    "args": {
+      "script path": "STRING",
+      "name": "STRING",
+      "description": "STRING",
+      "icon path": "IMG",
+      "group": "GROUP"
+    }
+  }
+}

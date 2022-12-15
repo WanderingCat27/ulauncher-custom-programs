@@ -1,0 +1,9 @@
+{
+    "name": "Restart Ulauncher",
+    "description": "Kills and restarts Ulauncher.",
+    "icon": "%ICONS/downloaded/img_426047.png",
+    "action-type": "script",
+    "script": {
+        "path": "%WDIR/scripts/restart_ulauncher.sh"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Help",
+    "description": "Read extension docs.",
+    "icon": "%ICONS/help.png",
+    "action-type": "open_url",
+    "open_url": {
+        "url": "https://github.com/WanderingCat27/ulauncher-custom-programs/wiki"
+    }
+}

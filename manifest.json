@@ -1,0 +1,26 @@
+{
+    "required_api_version": ">=2.0.0",
+    "name": "Run",
+    "description": "Create custom actions",
+    "developer_name": "NotStable",
+    "icon": "images/icon.png",
+    "options": {
+      "query_debounce": 0.1
+    },
+    "preferences": [
+      {
+        "id": "action",
+        "type": "keyword",
+        "name": "Action",
+        "description": "Create and run custom actions",
+        "default_value": "ac"
+      },
+      {
+        "id": "restartUl",
+        "type": "keyword",
+        "name": "restart ulauncher",
+        "description": "keyword to restart ulauncher",
+        "default_value": "restul"
+      }
+    ]
+  }

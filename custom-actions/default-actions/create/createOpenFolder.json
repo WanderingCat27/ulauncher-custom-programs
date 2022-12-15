@@ -1,0 +1,9 @@
+{
+  "name": "Open folder containing actions",
+  "description": "Navigate to folder containing actions",
+  "icon": "%ICONS/plus.png",
+  "action-type": "open_file",
+  "open_file": {
+    "path": "%WDIR/"
+  }
+}
